@@ -1,0 +1,95 @@
+{
+  "arquivo_bruto": "2296.xls",
+  "sha256_bruto": "6e9b0270fcd1c3e03cb35341385bf10bebf4126196a80fb57d0fd7e61a83767c",
+  "interpretacao": {
+    "orientacao": "original",
+    "linha_cabecalho": 6,
+    "colunas_reconhecidas": {
+      "0": "ano",
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": "total_reportado",
+      "14": "diferenca_reportada",
+      "15": "variacao_pct_reportada",
+      "16": "populacao",
+      "17": "taxa_100k_reportada"
+    },
+    "linhas_descartadas": [
+      {
+        "linha": 7,
+        "motivo": "sem ano na coluna de ano",
+        "conteudo": "nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan"
+      },
+      {
+        "linha": 8,
+        "motivo": "sem ano na coluna de ano",
+        "conteudo": "nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan"
+      },
+      {
+        "linha": 30,
+        "motivo": "sem ano na coluna de ano",
+        "conteudo": "nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan"
+      },
+      {
+        "linha": 31,
+        "motivo": "sem ano na coluna de ano",
+        "conteudo": "nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan"
+      },
+      {
+        "linha": 32,
+        "motivo": "sem ano na coluna de ano",
+        "conteudo": "Fonte: Instituto de Segurança Pública.  Disponível em <http://www.ispdados.rj.gov.br/> acesso em 27/11/2023 | nan | nan "
+      },
+      {
+        "linha": 33,
+        "motivo": "sem ano na coluna de ano",
+        "conteudo": "Notas: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan"
+      },
+      {
+        "linha": 34,
+        "motivo": "sem ano na coluna de ano",
+        "conteudo": "1 - Cálculos e tabulação: IPP, Coordenadoria Técnica de Informações da Cidade. | nan | nan | nan | nan | nan | nan | nan"
+      },
+      {
+        "linha": 35,
+        "motivo": "sem ano na coluna de ano",
+        "conteudo": "2 - Projeção realizada pelo ISP, referente a Dezembro ou do último mês disponível no ano. No ano de 2022, a última proje"
+      },
+      {
+        "linha": 36,
+        "motivo": "sem ano na coluna de ano",
+        "conteudo": "... Dado numérico não disponível | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | n"
+      },
+      {
+        "linha": 37,
+        "motivo": "sem ano na coluna de ano",
+        "conteudo": ".. Não se aplica dado numérico | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan"
+      }
+    ]
+  },
+  "validacao": {
+    "total_divergente_da_soma_dos_meses": [],
+    "taxa_divergente_mais_de_1pct": [],
+    "variacao_pct_divergente_mais_de_0_1pp": [],
+    "anos_com_lacuna_no_meio": [],
+    "anos_parciais": [
+      2023
+    ],
+    "valores_negativos": 0
+  },
+  "n_registros_mensais": 250,
+  "periodo": [
+    "2003-01-01",
+    "2023-10-01"
+  ]
+}
